@@ -1,0 +1,4 @@
+toast
+chinese
+Vietnamese
+italian
